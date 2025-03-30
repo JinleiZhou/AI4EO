@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.onnx
+
+# Datasets and annotations
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.txt
+*.xml
+runs/
+data/
+labels/
+images/
+
+# Logs
+*.log
+
+# Mac systemfiles
+.DS_Store
+
+# Zip or temporary files
+*.zip
+*.tar.gz
+*.tar
+*.tmp
