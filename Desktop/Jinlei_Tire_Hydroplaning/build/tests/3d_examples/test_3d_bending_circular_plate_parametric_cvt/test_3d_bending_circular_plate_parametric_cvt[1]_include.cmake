@@ -1,0 +1,5 @@
+if(EXISTS "/Users/chloe-jinlei/Desktop/Jinlei_Tire_hydroplaning/build/tests/3d_examples/test_3d_bending_circular_plate_parametric_cvt/test_3d_bending_circular_plate_parametric_cvt[1]_tests.cmake")
+  include("/Users/chloe-jinlei/Desktop/Jinlei_Tire_hydroplaning/build/tests/3d_examples/test_3d_bending_circular_plate_parametric_cvt/test_3d_bending_circular_plate_parametric_cvt[1]_tests.cmake")
+else()
+  add_test(test_3d_bending_circular_plate_parametric_cvt_NOT_BUILT test_3d_bending_circular_plate_parametric_cvt_NOT_BUILT)
+endif()

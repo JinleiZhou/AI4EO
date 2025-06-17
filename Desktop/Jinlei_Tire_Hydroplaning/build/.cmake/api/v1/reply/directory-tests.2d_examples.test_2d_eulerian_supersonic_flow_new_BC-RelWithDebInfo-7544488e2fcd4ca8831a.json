@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/2d_examples/test_2d_eulerian_supersonic_flow_new_BC",
+		"source" : "tests/2d_examples/test_2d_eulerian_supersonic_flow_new_BC"
+	}
+}

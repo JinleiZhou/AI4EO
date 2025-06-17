@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/2d_examples/2d_examples_ck/test_2d_filling_tank_ck",
+		"source" : "tests/2d_examples/2d_examples_ck/test_2d_filling_tank_ck"
+	}
+}

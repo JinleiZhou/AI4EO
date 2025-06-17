@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/optimization/test_2d_VP_heat_flux_optimization",
+		"source" : "tests/optimization/test_2d_VP_heat_flux_optimization"
+	}
+}

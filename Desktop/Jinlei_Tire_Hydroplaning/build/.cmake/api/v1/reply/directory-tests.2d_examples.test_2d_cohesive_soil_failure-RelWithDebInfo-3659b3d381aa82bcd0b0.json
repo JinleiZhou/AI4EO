@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/2d_examples/test_2d_cohesive_soil_failure",
+		"source" : "tests/2d_examples/test_2d_cohesive_soil_failure"
+	}
+}

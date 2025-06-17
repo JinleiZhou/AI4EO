@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/unit_tests_src/shared/particle_dynamics/solid_dynamics/test_thin_structure_dynamics",
+		"source" : "tests/unit_tests_src/shared/particle_dynamics/solid_dynamics/test_thin_structure_dynamics"
+	}
+}

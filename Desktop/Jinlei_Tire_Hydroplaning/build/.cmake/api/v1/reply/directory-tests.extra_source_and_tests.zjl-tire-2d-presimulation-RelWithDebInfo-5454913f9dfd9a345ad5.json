@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/extra_source_and_tests/zjl-tire-2d-presimulation",
+		"source" : "tests/extra_source_and_tests/zjl-tire-2d-presimulation"
+	}
+}

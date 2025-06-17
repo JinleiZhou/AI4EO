@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/unit_tests_src/shared/particle_dynamics/configuration_dynamics/test_exclusive_scan",
+		"source" : "tests/unit_tests_src/shared/particle_dynamics/configuration_dynamics/test_exclusive_scan"
+	}
+}

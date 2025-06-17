@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/3d_examples/test_3d_FVM_incompressible_channel_flow",
+		"source" : "tests/3d_examples/test_3d_FVM_incompressible_channel_flow"
+	}
+}

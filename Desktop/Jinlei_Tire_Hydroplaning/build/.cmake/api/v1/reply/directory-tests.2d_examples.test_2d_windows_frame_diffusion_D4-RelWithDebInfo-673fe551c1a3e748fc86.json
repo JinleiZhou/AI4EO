@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/2d_examples/test_2d_windows_frame_diffusion_D4",
+		"source" : "tests/2d_examples/test_2d_windows_frame_diffusion_D4"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/unit_tests_src/for_2D_build/geometries/test_2d_geometric_shape",
+		"source" : "tests/unit_tests_src/for_2D_build/geometries/test_2d_geometric_shape"
+	}
+}

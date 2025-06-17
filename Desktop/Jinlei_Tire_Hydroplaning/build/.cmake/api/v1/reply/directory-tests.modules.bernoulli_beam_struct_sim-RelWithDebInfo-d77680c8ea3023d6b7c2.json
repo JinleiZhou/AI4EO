@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/modules/bernoulli_beam_struct_sim",
+		"source" : "tests/modules/bernoulli_beam_struct_sim"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/unit_tests_src/shared/test_kernels/test_kernel_cubic_B_spline",
+		"source" : "tests/unit_tests_src/shared/test_kernels/test_kernel_cubic_B_spline"
+	}
+}

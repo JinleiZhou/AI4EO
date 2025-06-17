@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/unit_tests_src/shared/geometries",
+		"source" : "tests/unit_tests_src/shared/geometries"
+	}
+}

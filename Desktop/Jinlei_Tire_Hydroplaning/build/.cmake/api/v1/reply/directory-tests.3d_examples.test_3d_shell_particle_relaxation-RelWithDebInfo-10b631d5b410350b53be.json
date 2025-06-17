@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/3d_examples/test_3d_shell_particle_relaxation",
+		"source" : "tests/3d_examples/test_3d_shell_particle_relaxation"
+	}
+}

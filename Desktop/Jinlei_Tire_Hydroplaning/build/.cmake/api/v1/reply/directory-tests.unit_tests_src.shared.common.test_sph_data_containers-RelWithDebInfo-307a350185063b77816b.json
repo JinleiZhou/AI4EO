@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/unit_tests_src/shared/common/test_sph_data_containers",
+		"source" : "tests/unit_tests_src/shared/common/test_sph_data_containers"
+	}
+}

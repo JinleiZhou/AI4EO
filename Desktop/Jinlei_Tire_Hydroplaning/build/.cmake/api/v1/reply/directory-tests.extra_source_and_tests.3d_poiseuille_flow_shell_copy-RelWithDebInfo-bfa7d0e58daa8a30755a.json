@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/extra_source_and_tests/3d_poiseuille_flow_shell_copy",
+		"source" : "tests/extra_source_and_tests/3d_poiseuille_flow_shell_copy"
+	}
+}

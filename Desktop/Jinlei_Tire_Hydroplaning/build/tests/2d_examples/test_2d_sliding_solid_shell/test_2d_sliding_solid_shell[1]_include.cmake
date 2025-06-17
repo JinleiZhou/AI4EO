@@ -1,0 +1,5 @@
+if(EXISTS "/Users/chloe-jinlei/Desktop/Jinlei_Tire_hydroplaning/build/tests/2d_examples/test_2d_sliding_solid_shell/test_2d_sliding_solid_shell[1]_tests.cmake")
+  include("/Users/chloe-jinlei/Desktop/Jinlei_Tire_hydroplaning/build/tests/2d_examples/test_2d_sliding_solid_shell/test_2d_sliding_solid_shell[1]_tests.cmake")
+else()
+  add_test(test_2d_sliding_solid_shell_NOT_BUILT test_2d_sliding_solid_shell_NOT_BUILT)
+endif()

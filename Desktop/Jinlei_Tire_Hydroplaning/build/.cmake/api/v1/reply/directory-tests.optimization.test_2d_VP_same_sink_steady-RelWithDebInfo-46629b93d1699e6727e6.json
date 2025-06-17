@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/optimization/test_2d_VP_same_sink_steady",
+		"source" : "tests/optimization/test_2d_VP_same_sink_steady"
+	}
+}

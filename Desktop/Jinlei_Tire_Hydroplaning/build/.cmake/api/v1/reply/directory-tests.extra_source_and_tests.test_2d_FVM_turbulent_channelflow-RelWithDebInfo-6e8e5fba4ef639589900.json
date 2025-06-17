@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/extra_source_and_tests/test_2d_FVM_turbulent_channelflow",
+		"source" : "tests/extra_source_and_tests/test_2d_FVM_turbulent_channelflow"
+	}
+}

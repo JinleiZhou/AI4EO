@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tests/unit_tests_src/for_2D_build/meshes/test_2d_particle_for_split",
+		"source" : "tests/unit_tests_src/for_2D_build/meshes/test_2d_particle_for_split"
+	}
+}
